@@ -1,0 +1,42 @@
+Hola folks!
+
+This week was quite intense~ long hours, debugging, backtesting, compiling results, documenting and lots of pictures <add them!>
+@ office!!
+
+Owing to our newly designated workstation which to our delight, was able to emulate trading strategies in the time frame of 
+minutes instead of days, we went on a spree of backtests to find out which of the numerous things we had coded would give us
+a positive sharpe, only to realize that we had some major issues, either in the code or in the data. <To be fair, there was an 
+issue in both. Data had something weird and we had failed to incorporate the check in the code> Luckily, we did fix that
+and found some trends.
+
+Thankfully, the research yielded some insights into the behaviour of reversion strategies and the team is gonna work further
+on those. However, there is a slight vacuum that could only be filled by staying here for a few more months to be able to 
+see the idea going into production and yielding some hard cash.
+
+When we thought that the game was over, we were told that we had to document our code according to company standards and
+prepare a KT (Knowledge Transfer) doc so that even those people could use it who are not yet part of the team. Sounds obvious, 
+but that was a LOT of thinking. It made me revisit and reflect on the kind of code I had written and how could the flow 
+be improved. I guess for any code now onwards I write that is beyond 100 lines, I will maintain that kind of documentation 
+and for every reserch that I pursue, I will make a KT doc. KT doc help me further dwell into the research and come up with 
+further arguments. That did bring about a slight sense of fulfilment. 
+
+Our mentors took us for authentic Bengali dinner on the last day, more memories!
+
+Saturday night saw some interesting and insightful discussions with Kushal bhaiya and Mayank on umm.. startups, freelancing,
+maggi+egg, movies and okay I can't remember it all, it was a typical Pilani night!
+
+Home for a couple of weeks after six months! Feels good. Have got a lot of catching up to do, friends, family and my beloved
+Aero Pure Drive!
+
+As I write this on Sunday night, I can for sure say I'd miss the Monday morning blues, hot chocolate from the vending machine
+<yes, their vending machine had all the 8 things!!> and the sight of the backtester. Internship definitely taught me how to 
+perserve when you just have the slightest hope of the problem being solved, get going even when you don't "feel like" and 
+showing up every single day. Basically what running did to the body, internship did to the mind.
+
+It would be wrong to say I didn't want a week or two completely off, but can't really afford that right now. I'd rather work 
+now than regret later. Will definitely not miss out meeting long lost friends though (remember? I have a LOT of catching 
+up to do!).
+
+Next two months are gonna be all about BOSM, getting things @ Enactus started, running and striking a chord with EEE. 
+
+That's quite it for now!
